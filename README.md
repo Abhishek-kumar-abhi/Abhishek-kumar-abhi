@@ -54,7 +54,7 @@ Welcome to my GitHub! I’m a curious mind with a deep passion for **Data Analyt
 ## 🌐 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-04927b2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-💌 [Email](aaabhishek841424@gmail.com)  
+💌 [Email](mailto:aaabhishek841424@gmail.com)  
 🧠 Let's collaborate and innovate!
 
 ---
