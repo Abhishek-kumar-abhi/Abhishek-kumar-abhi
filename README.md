@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Abhishek Kumar!
 
-🚀 *Data Analyst | AI Enthusiast | Lifelong Learner*
+🚀 *Data Scientist | AI Enthusiast | Lifelong Learner*
 
 Welcome to my GitHub! I’m a curious mind with a deep passion for **Data Analytics**, **Data Science**, **Artificial Intelligence**, and building meaningful solutions that drive impact.
 
